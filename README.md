@@ -98,7 +98,7 @@ Dashboard includes:
 
 ## 🙌 Author
 
-Your Name
+Harshit Gangwar
 
 ---
 
